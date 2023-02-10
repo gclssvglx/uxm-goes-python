@@ -54,17 +54,17 @@
 
 ### Session 3 - Duration:  0:30:26
 
-- [ ] [0:08:41](https://www.youtube.com/watch?v=Zs9u8TAv4_k) Demo: Dates | Python for Beginners [16 of 44]
+- [x] [0:08:41](https://www.youtube.com/watch?v=Zs9u8TAv4_k) Demo: Dates | Python for Beginners [16 of 44]
 
-- [ ] [0:12:55](https://www.youtube.com/watch?v=HQqqNBZosn8) Error Handling | Python for Beginners [17 of 44]
+- [x] [0:12:55](https://www.youtube.com/watch?v=HQqqNBZosn8) Error Handling | Python for Beginners [17 of 44]
 
-- [ ] [0:03:58](https://www.youtube.com/watch?v=LrRh-V-hYEc) Demo: Error Handling | Python for Beginners [18 of 44]
+- [x] [0:03:58](https://www.youtube.com/watch?v=LrRh-V-hYEc) Demo: Error Handling | Python for Beginners [18 of 44]
 
-- [ ] [0:04:53](https://www.youtube.com/watch?v=5pPKYWqkoek) Conditional Logic | Python for Beginners [19 of 44]
+- [x] [0:04:53](https://www.youtube.com/watch?v=5pPKYWqkoek) Conditional Logic | Python for Beginners [19 of 44]
 
 ### Session 4 - Duration:  0:28:56
 
-- [ ] [0:05:02](https://www.youtube.com/watch?v=zqVmqtTLmgw) Demo: Conditional Logic | Python for Beginners [20 of 44]
+- [x] [0:05:02](https://www.youtube.com/watch?v=zqVmqtTLmgw) Demo: Conditional Logic | Python for Beginners [20 of 44]
 
 - [ ] [0:05:57](https://www.youtube.com/watch?v=oYaGJBMoXok) Handling Multiple Conditions | Python for Beginners [21 of 44]
 

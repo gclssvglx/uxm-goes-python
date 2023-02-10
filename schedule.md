@@ -38,19 +38,19 @@
 
 ### Session 2 - Duration:  0:36:22
 
-- [ ] [0:04:40](https://www.youtube.com/watch?v=tSebLz1hNpA) String Concepts | Python for Beginners [9 of 44]
+- [x] [0:04:40](https://www.youtube.com/watch?v=tSebLz1hNpA) String Concepts | Python for Beginners [9 of 44]
 
-- [ ] [0:04:29](https://www.youtube.com/watch?v=zv3cVJHCqXA) Demo: Strings | Python for Beginners [10 of 44]
+- [x] [0:04:29](https://www.youtube.com/watch?v=zv3cVJHCqXA) Demo: Strings | Python for Beginners [10 of 44]
 
-- [ ] [0:04:08](https://www.youtube.com/watch?v=bQQqxysLIGE) Formatting Strings | Python for Beginners [11 of 44]
+- [x] [0:04:08](https://www.youtube.com/watch?v=bQQqxysLIGE) Formatting Strings | Python for Beginners [11 of 44]
 
-- [ ] [0:03:48](https://www.youtube.com/watch?v=E850-MF22P0) Demo: Formatting Strings | Python for Beginners [12 of 44]
+- [x] [0:03:48](https://www.youtube.com/watch?v=E850-MF22P0) Demo: Formatting Strings | Python for Beginners [12 of 44]
 
-- [ ] [0:05:51](https://www.youtube.com/watch?v=5yhn0MFLcu8) Numeric Data Types | Python for Beginners [13 of 44]
+- [x] [0:05:51](https://www.youtube.com/watch?v=5yhn0MFLcu8) Numeric Data Types | Python for Beginners [13 of 44]
 
-- [ ] [0:06:01](https://www.youtube.com/watch?v=T1j2tfZK7OI) Demo: Numbers | Python for Beginners [14 of 44]
+- [x] [0:06:01](https://www.youtube.com/watch?v=T1j2tfZK7OI) Demo: Numbers | Python for Beginners [14 of 44]
 
-- [ ] [0:07:22](https://www.youtube.com/watch?v=o1dlxoHxdHU) Date data types | Python for Beginners [15 of 44]
+- [x] [0:07:22](https://www.youtube.com/watch?v=o1dlxoHxdHU) Date data types | Python for Beginners [15 of 44]
 
 ### Session 3 - Duration:  0:30:26
 

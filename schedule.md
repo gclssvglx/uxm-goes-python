@@ -66,36 +66,36 @@
 
 - [x] [0:05:02](https://www.youtube.com/watch?v=zqVmqtTLmgw) Demo: Conditional Logic | Python for Beginners [20 of 44]
 
-- [ ] [0:05:57](https://www.youtube.com/watch?v=oYaGJBMoXok) Handling Multiple Conditions | Python for Beginners [21 of 44]
+- [x] [0:05:57](https://www.youtube.com/watch?v=oYaGJBMoXok) Handling Multiple Conditions | Python for Beginners [21 of 44]
 
-- [ ] [0:08:22](https://www.youtube.com/watch?v=J9luo4cODzM) Demo: Multiple Conditions | Python for Beginners [22 of 44]
+- [x] [0:08:22](https://www.youtube.com/watch?v=J9luo4cODzM) Demo: Multiple Conditions | Python for Beginners [22 of 44]
 
-- [ ] [0:04:08](https://www.youtube.com/watch?v=IBOHc87yFYw) Complex Conditions | Python for Beginners [23 of 44]
+- [x] [0:04:08](https://www.youtube.com/watch?v=IBOHc87yFYw) Complex Conditions | Python for Beginners [23 of 44]
 
-- [ ] [0:05:25](https://www.youtube.com/watch?v=Iui6K2STtbA) Demo: Complex Conditions | Python for Beginners [24 of 44]
+- [x] [0:05:25](https://www.youtube.com/watch?v=Iui6K2STtbA) Demo: Complex Conditions | Python for Beginners [24 of 44]
 
 ## Week 2
 
 ### Session 1 - Duration:  0:24:04
 
-- [ ] [0:11:28](https://www.youtube.com/watch?v=beA8IsY3mQs) Collections | Python for Beginners [25 of 44]
+- [x] [0:11:28](https://www.youtube.com/watch?v=beA8IsY3mQs) Collections | Python for Beginners [25 of 44]
 
-- [ ] [0:04:02](https://www.youtube.com/watch?v=4PaSlXNjawM) Demo: Collections | Python for Beginners [26 of 44]
+- [x] [0:04:02](https://www.youtube.com/watch?v=4PaSlXNjawM) Demo: Collections | Python for Beginners [26 of 44]
 
-- [ ] [0:05:29](https://www.youtube.com/watch?v=LrOAl8vUFHY) Loops | Python for Beginners [27 of 44]
+- [x] [0:05:29](https://www.youtube.com/watch?v=LrOAl8vUFHY) Loops | Python for Beginners [27 of 44]
 
-- [ ] [0:03:04](https://www.youtube.com/watch?v=rAvD-6MpTw4) Demo: Loops | Python for Beginners [28 of 44]
+- [x] [0:03:04](https://www.youtube.com/watch?v=rAvD-6MpTw4) Demo: Loops | Python for Beginners [28 of 44]
 
 
 ### Session 2 - Duration:  0:29:10
 
-- [ ] [0:10:09](https://www.youtube.com/watch?v=nrCAxXfRU28) Introducing Functions | Python for Beginners [29 of 44]
+- [x] [0:10:09](https://www.youtube.com/watch?v=nrCAxXfRU28) Introducing Functions | Python for Beginners [29 of 44]
 
-- [ ] [0:07:48](https://www.youtube.com/watch?v=C9ZEGqGHXms) Demo: Functions | Python for Beginners [30 of 44]
+- [x] [0:07:48](https://www.youtube.com/watch?v=C9ZEGqGHXms) Demo: Functions | Python for Beginners [30 of 44]
 
-- [ ] [0:06:31](https://www.youtube.com/watch?v=sKW-zdYZNX4) Parameterized Functions | Python for Beginners [31 of 44]
+- [x] [0:06:31](https://www.youtube.com/watch?v=sKW-zdYZNX4) Parameterized Functions | Python for Beginners [31 of 44]
 
-- [ ] [0:04:41](https://www.youtube.com/watch?v=LtKAXFRtxhQ) Demo: Parameterized functions | Python for Beginners [32 of 44]
+- [x] [0:04:41](https://www.youtube.com/watch?v=LtKAXFRtxhQ) Demo: Parameterized functions | Python for Beginners [32 of 44]
 
 
 ### Session 3 - Duration:  0:27:11

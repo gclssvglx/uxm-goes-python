@@ -126,13 +126,13 @@
 
 ### Session 2 - Duration:  0:22:25
 
-- [ ] [0:06:20](https://www.youtube.com/watch?v=XbHmiKvreLM) Demo: Managing Keys | Python for Beginners [41 of 44]
+- [x] [0:06:20](https://www.youtube.com/watch?v=XbHmiKvreLM) Demo: Managing Keys | Python for Beginners [41 of 44]
 
-- [ ] [0:08:43](https://www.youtube.com/watch?v=_pnZDV53Rek) Decorators | Python for Beginners [42 of 44]
+- [x] [0:08:43](https://www.youtube.com/watch?v=_pnZDV53Rek) Decorators | Python for Beginners [42 of 44]
 
-- [ ] [0:02:19](https://www.youtube.com/watch?v=ljvCnjtnNkU) Demo: Decorators | Python for Beginners [43 of 44]
+- [x] [0:02:19](https://www.youtube.com/watch?v=ljvCnjtnNkU) Demo: Decorators | Python for Beginners [43 of 44]
 
-- [ ] [0:05:03](https://www.youtube.com/watch?v=3JjVPYHihKI) Next Steps | Python for Beginners [44 of 44]
+- [x] [0:05:03](https://www.youtube.com/watch?v=3JjVPYHihKI) Next Steps | Python for Beginners [44 of 44]
 
 ### Session 3 & 4
 

@@ -100,29 +100,29 @@
 
 ### Session 3 - Duration:  0:27:11
 
-- [ ] [0:10:12](https://www.youtube.com/watch?v=Uei2ILcxuPs) Modules and Packages | Python for Beginners [33 of 44]
+- [x] [0:10:12](https://www.youtube.com/watch?v=Uei2ILcxuPs) Modules and Packages | Python for Beginners [33 of 44]
 
-- [ ] [0:05:55](https://www.youtube.com/watch?v=_eczHOiFMZA) Virtual Environments | Python for Beginners [34 of 44]
+- [x] [0:05:55](https://www.youtube.com/watch?v=_eczHOiFMZA) Virtual Environments | Python for Beginners [34 of 44]
 
-- [ ] [0:11:02](https://www.youtube.com/watch?v=mzpQgMNdR0g) Demo: Virtual Environment Packages | Python for Beginners [35 or 44]
+- [x] [0:11:02](https://www.youtube.com/watch?v=mzpQgMNdR0g) Demo: Virtual Environment Packages | Python for Beginners [35 or 44]
 
 
 ### Session 4 - Duration:  0:21:02
 
-- [ ] [0:10:12](https://www.youtube.com/watch?v=BM4S0lNUytA) Calling An API | Python for Beginners [36 of 44]
+- [x] [0:10:12](https://www.youtube.com/watch?v=BM4S0lNUytA) Calling An API | Python for Beginners [36 of 44]
 
-- [ ] [0:10:48](https://www.youtube.com/watch?v=vkglhX-aoDI) Demo: Calling An API | Python for Beginners [37 of 44]
+- [x] [0:10:48](https://www.youtube.com/watch?v=vkglhX-aoDI) Demo: Calling An API | Python for Beginners [37 of 44]
 
 
 ## Week 3
 
 ### Session 1 - Duration:  0:28:26
 
-- [ ] [0:10:47](https://www.youtube.com/watch?v=KnAyziNnuI0) JavaScript Object Notation (JSON) | Python for Beginners [38 of 44]
+- [x] [0:10:47](https://www.youtube.com/watch?v=KnAyziNnuI0) JavaScript Object Notation (JSON) | Python for Beginners [38 of 44]
 
-- [ ] [0:08:02](https://www.youtube.com/watch?v=1ty7D--lbXU) Demo: JSON | Python for Beginners [39 of 44]
+- [x] [0:08:02](https://www.youtube.com/watch?v=1ty7D--lbXU) Demo: JSON | Python for Beginners [39 of 44]
 
-- [ ] [0:09:37](https://www.youtube.com/watch?v=MW3eV2J65hM) Managing Keys | Python for Beginners [40 of 44]
+- [x] [0:09:37](https://www.youtube.com/watch?v=MW3eV2J65hM) Managing Keys | Python for Beginners [40 of 44]
 
 ### Session 2 - Duration:  0:22:25
 

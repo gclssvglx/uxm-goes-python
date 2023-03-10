@@ -142,21 +142,21 @@
 
 ### Session 1 - Duration:  0:25:31
 
-- [ ] [0:03:24](https://www.youtube.com/watch?v=xYDnHi0u6_c) Introducing More Python for Beginners |  More Python for Beginners [1 of 20]
+- [x] [0:03:24](https://www.youtube.com/watch?v=xYDnHi0u6_c) Introducing More Python for Beginners |  More Python for Beginners [1 of 20]
 
-- [ ] [0:10:31](https://www.youtube.com/watch?v=P1B0ytn6VPU) Formatting and Linting | More Python for Beginners [2 of 20]
+- [x] [0:10:31](https://www.youtube.com/watch?v=P1B0ytn6VPU) Formatting and Linting | More Python for Beginners [2 of 20]
 
-- [ ] [0:07:04](https://www.youtube.com/watch?v=Q5Qke8OW8xI) Demo: Formatting and Linting | More Python for Beginners [3 of 20]
+- [x] [0:07:04](https://www.youtube.com/watch?v=Q5Qke8OW8xI) Demo: Formatting and Linting | More Python for Beginners [3 of 20]
 
-- [ ] [0:04:30](https://www.youtube.com/watch?v=NWLoNpQfrRE) Lambdas | More Python for Beginners [4 of 20]
+- [x] [0:04:30](https://www.youtube.com/watch?v=NWLoNpQfrRE) Lambdas | More Python for Beginners [4 of 20]
 
 ### Session 2 - Duration:  0:23:16
 
-- [ ] [0:04:03](https://www.youtube.com/watch?v=KIzEJK7HhOw) Demo: Lambdas | More Python for Beginners [5 of 20]
+- [x] [0:04:03](https://www.youtube.com/watch?v=KIzEJK7HhOw) Demo: Lambdas | More Python for Beginners [5 of 20]
 
-- [ ] [0:11:56](https://www.youtube.com/watch?v=0xzbkiLKERM) Classes | More Python for Beginners [6 of 20]
+- [x] [0:11:56](https://www.youtube.com/watch?v=0xzbkiLKERM) Classes | More Python for Beginners [6 of 20]
 
-- [ ] [0:07:17](https://www.youtube.com/watch?v=u4_ALw4KANc) Demo: Classes | More Python for Beginners [7 of 20]
+- [x] [0:07:17](https://www.youtube.com/watch?v=u4_ALw4KANc) Demo: Classes | More Python for Beginners [7 of 20]
 
 ### Session 3 - Duration:  0:21:01
 

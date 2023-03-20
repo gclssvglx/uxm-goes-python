@@ -160,39 +160,39 @@
 
 ### Session 3 - Duration:  0:21:01
 
-- [ ] [0:09:57](https://www.youtube.com/watch?v=KqJIT08TtgY) Inheritance |  More Python for Beginners [8 of 20]
+- [x] [0:09:57](https://www.youtube.com/watch?v=KqJIT08TtgY) Inheritance |  More Python for Beginners [8 of 20]
 
-- [ ] [0:11:04](https://www.youtube.com/watch?v=f4iLWu_FP3M) Demo: Inheritance | More Python for Beginners [9 of 20]
+- [x] [0:11:04](https://www.youtube.com/watch?v=f4iLWu_FP3M) Demo: Inheritance | More Python for Beginners [9 of 20]
 
 ### Session 4 - Duration:  0:27:22
 
-- [ ] [0:10:53](https://www.youtube.com/watch?v=zVFLBfqV-q0) Mixins (Multiple inheritance) | More Python for Beginners [10 of 20]
+- [x] [0:10:53](https://www.youtube.com/watch?v=zVFLBfqV-q0) Mixins (Multiple inheritance) | More Python for Beginners [10 of 20]
 
-- [ ] [0:04:41](https://www.youtube.com/watch?v=M5qUpnoolGM) Demo: Mixins | More Python for Beginners [11 of 20]
+- [x] [0:04:41](https://www.youtube.com/watch?v=M5qUpnoolGM) Demo: Mixins | More Python for Beginners [11 of 20]
 
-- [ ] [0:04:33](https://www.youtube.com/watch?v=JgT3jIh05po) Managing the file system |  More Python for Beginners [12 of 20]
+- [x] [0:04:33](https://www.youtube.com/watch?v=JgT3jIh05po) Managing the file system |  More Python for Beginners [12 of 20]
 
-- [ ] [0:07:15](https://www.youtube.com/watch?v=yhStTZB9ybs) Demo: Managing the file system |  More Python for Beginners [13 of 20]
+- [x] [0:07:15](https://www.youtube.com/watch?v=yhStTZB9ybs) Demo: Managing the file system |  More Python for Beginners [13 of 20]
 
 ## Week 5
 
 ### Session 1 - Duration:  0:19:17
 
-- [ ] [0:07:54](https://www.youtube.com/watch?v=QDYIMoA9EOg) Working with files | More Python for Beginners [14 of 20]
+- [x] [0:07:54](https://www.youtube.com/watch?v=QDYIMoA9EOg) Working with files | More Python for Beginners [14 of 20]
 
-- [ ] [0:06:58](https://www.youtube.com/watch?v=pQVBGHzpbtI) Demo: Working with files | More Python for Beginners [15 of 20]
+- [x] [0:06:58](https://www.youtube.com/watch?v=pQVBGHzpbtI) Demo: Working with files | More Python for Beginners [15 of 20]
 
-- [ ] [0:02:18](https://www.youtube.com/watch?v=vu4QfAhWN7E) Using with to automatically close resources | More Python for Beginners [16 of 20]
+- [x] [0:02:18](https://www.youtube.com/watch?v=vu4QfAhWN7E) Using with to automatically close resources | More Python for Beginners [16 of 20]
 
-- [ ] [0:02:04](https://www.youtube.com/watch?v=0YMQef6izIo) Demo: Using with | More Python for Beginners [17 of 20]
+- [x] [0:02:04](https://www.youtube.com/watch?v=0YMQef6izIo) Demo: Using with | More Python for Beginners [17 of 20]
 
 ### Session 2 - Duration:  0:27:28
 
-- [ ] [0:12:31](https://www.youtube.com/watch?v=aHubP4jcvOk) Asynchronous operations | More Python for Beginners [18 of 20]
+- [x] [0:12:31](https://www.youtube.com/watch?v=aHubP4jcvOk) Asynchronous operations | More Python for Beginners [18 of 20]
 
-- [ ] [0:13:41](https://www.youtube.com/watch?v=1UPpOheLFrs) Demo: Asynchronous operations | More Python for Beginners [19 of 20]
+- [x] [0:13:41](https://www.youtube.com/watch?v=1UPpOheLFrs) Demo: Asynchronous operations | More Python for Beginners [19 of 20]
 
-- [ ] [0:01:14](https://www.youtube.com/watch?v=w8Ftx_AzYhQ) Closing |  More Python for Beginners [20 of 20]
+- [x] [0:01:14](https://www.youtube.com/watch?v=w8Ftx_AzYhQ) Closing |  More Python for Beginners [20 of 20]
 
 ### Session 3 & 4
 
